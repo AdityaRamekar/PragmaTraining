@@ -1,0 +1,7 @@
+C:\Users\Aditya.Ramekar\source\repos\staticconstructor\staticconstructor\bin\Debug\staticconstructor.exe.config
+C:\Users\Aditya.Ramekar\source\repos\staticconstructor\staticconstructor\bin\Debug\staticconstructor.exe
+C:\Users\Aditya.Ramekar\source\repos\staticconstructor\staticconstructor\bin\Debug\staticconstructor.pdb
+C:\Users\Aditya.Ramekar\source\repos\staticconstructor\staticconstructor\obj\Debug\staticconstructor.csprojAssemblyReference.cache
+C:\Users\Aditya.Ramekar\source\repos\staticconstructor\staticconstructor\obj\Debug\staticconstructor.csproj.CoreCompileInputs.cache
+C:\Users\Aditya.Ramekar\source\repos\staticconstructor\staticconstructor\obj\Debug\staticconstructor.exe
+C:\Users\Aditya.Ramekar\source\repos\staticconstructor\staticconstructor\obj\Debug\staticconstructor.pdb
