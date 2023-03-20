@@ -1,0 +1,6 @@
+C:\Users\Aditya.Ramekar\source\repos\Staticprog\Staticprog\bin\Debug\Staticprog.exe.config
+C:\Users\Aditya.Ramekar\source\repos\Staticprog\Staticprog\bin\Debug\Staticprog.exe
+C:\Users\Aditya.Ramekar\source\repos\Staticprog\Staticprog\bin\Debug\Staticprog.pdb
+C:\Users\Aditya.Ramekar\source\repos\Staticprog\Staticprog\obj\Debug\Staticprog.csproj.CoreCompileInputs.cache
+C:\Users\Aditya.Ramekar\source\repos\Staticprog\Staticprog\obj\Debug\Staticprog.exe
+C:\Users\Aditya.Ramekar\source\repos\Staticprog\Staticprog\obj\Debug\Staticprog.pdb
