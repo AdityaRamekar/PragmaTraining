@@ -1,0 +1,7 @@
+C:\Users\Aditya.Ramekar\source\repos\assessment17-2-2023\assessment17-2-2023\bin\Debug\assessment17-2-2023.exe.config
+C:\Users\Aditya.Ramekar\source\repos\assessment17-2-2023\assessment17-2-2023\bin\Debug\assessment17-2-2023.exe
+C:\Users\Aditya.Ramekar\source\repos\assessment17-2-2023\assessment17-2-2023\bin\Debug\assessment17-2-2023.pdb
+C:\Users\Aditya.Ramekar\source\repos\assessment17-2-2023\assessment17-2-2023\obj\Debug\assessment17-2-2023.csprojAssemblyReference.cache
+C:\Users\Aditya.Ramekar\source\repos\assessment17-2-2023\assessment17-2-2023\obj\Debug\assessment17-2-2023.csproj.CoreCompileInputs.cache
+C:\Users\Aditya.Ramekar\source\repos\assessment17-2-2023\assessment17-2-2023\obj\Debug\assessment17-2-2023.exe
+C:\Users\Aditya.Ramekar\source\repos\assessment17-2-2023\assessment17-2-2023\obj\Debug\assessment17-2-2023.pdb
