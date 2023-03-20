@@ -1,0 +1,7 @@
+c:\users\aditya.ramekar\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+c:\users\aditya.ramekar\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+c:\users\aditya.ramekar\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+c:\users\aditya.ramekar\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+c:\users\aditya.ramekar\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+c:\users\aditya.ramekar\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+c:\users\aditya.ramekar\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
